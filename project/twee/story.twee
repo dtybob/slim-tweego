@@ -1,10 +1,10 @@
 :: StoryData
 {
-    "start": "In the park"
+    "start": "Start"
 }
 
 :: StoryTitle
 My Fine Story
 
-:: In the park
+:: Start
 There are trees all around. Birds twitter and chirp.
