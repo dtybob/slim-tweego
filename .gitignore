@@ -3,3 +3,4 @@
 /project/modules/*.css
 /project/modules/*.js
 .idea/
+/npm-debug.log
