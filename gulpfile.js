@@ -27,7 +27,7 @@ const CFG = {
     CSS: {
         MINIFY: true,
         AUTOPREFIX: true,
-        SASS: false,
+        SASS: true,
         LINT: {
             'box-model' : false,
             'adjoining-classes' : false,
